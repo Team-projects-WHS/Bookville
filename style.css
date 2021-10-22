@@ -1,0 +1,263 @@
+/* HOME */
+
+/*Styles of color */
+
+.text-grey-1 {
+    color: #606060;
+  }
+  
+  .text-grey-2 {
+    color: #787878;
+  }
+  
+  .text-grey-3 {
+    color: #373737;
+  }
+  
+  .text-grey-4 {
+    color: #999999;
+  }
+  
+  .text-grey-5 {
+    color: #9C9C9C;
+  }
+  
+  .text-brown-1 {
+    color: #887569;
+  }
+  
+  .text-brown-2 {
+    color: #4F4F4F;
+  }
+  
+  .text-black-1 {
+    color: #181818;
+  }
+  
+  .text-black-2 {
+    color: #373737;
+  }
+  
+  .section-title {
+    font-size: 2.25em;
+    font-weight: 300;
+    color: #373737;
+  }
+  
+  /* Common values */
+  
+  body {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  }
+  
+  p {
+    font-weight: 300;
+    line-height: 1.25em;
+  }
+  
+  .bg-decoration {
+    background: #F8F8F8;
+  }
+  
+  .p-left-0 {
+    padding-left: 0;
+  }
+  
+  .p-right-0 {
+    padding-right: 0;
+  }
+  
+  .p-left-40 {
+    padding-left: 40px;
+  }
+  
+  .p-50 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .p-top-20 {
+    padding-top: 20px;
+  }
+  
+  .p-bottom-30 {
+    padding-bottom: 30px;
+  }
+  
+  /* Кнопки */
+  
+  .btn-local {
+    padding: 20px 75px 20px 40px;
+    border: 1px solid #887569;
+    box-sizing: border-box;
+    border-radius: 8px;
+    font-size: 1em;
+  }
+  /* Header */
+  
+  .header-border-bottom {
+    padding-bottom: 28px;
+    border-bottom: 1px solid #cdcdcd;  
+  }
+  
+  .header-tel-icon {
+    width: 16px;
+    height: 16px;
+    background-image: url('../img/header/header-tel.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  
+  .header-menu-icon {
+    width: 25px;
+    height: 16px;
+    background-image: url('../img/header/icon-menu-1.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  
+  .header-icon {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .header-btn-search {
+    width: 28px;
+    height: 28px;
+    background-image: url('../img/header/header-search.svg');
+  }
+  
+  .header-btn-favorites {
+    width: 31px;
+    height: 31px;
+    background-image: url('../img/header/header-favorites.svg');
+  }
+  
+  .header-btn-cart {
+    width: 32px;
+    height: 32px;
+    background-image: url('../img/header/header-cart.svg');
+  }
+  
+  .dropdown-toggle::after {
+    background-image: url('../img/header/dropdown-icon.svg');
+    width: 11px;
+    height: 11px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+  }
+
+
+/* 2nd page*/
+
+main {
+    width: 1440px;
+    margin: 0 auto;
+}
+.wrapper {
+    font-family: 'montserrat';
+    margin: 0 auto;
+    padding-left: 2px;
+    width: 85%;
+}
+
+.section1 {
+    margin-bottom: 34px;
+}
+
+.nav {
+    display: flex;
+    width: 28%;
+    margin: 0 8px;
+    padding-top: 2px;
+}
+
+.nav div  a {
+    text-decoration: none;
+    color: #A7A7A7;
+    margin-right: 17px;
+}
+
+.nav img {
+    height: 8px;
+    margin-top: 8px;
+    margin-right: 21px;
+}
+
+
+h1 {
+    font-weight: 300;
+    font-size: 36px;
+    letter-spacing: .2px;
+    margin: 0 10px;
+}
+
+h4 {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: .2px;
+    margin-bottom: 24px;
+}
+
+.section2 {
+  margin-bottom: 19px;
+}
+
+.container {
+    display: flex;
+}
+
+.container-left {
+  display: flex;
+  flex-direction: column;
+  width: 67%;
+  padding-right: 37px;
+}
+
+.container-left_letter {
+    display: flex;
+    width: 60%;
+    flex-direction: row;
+}
+
+.letter-img {
+    height: 102px;
+    margin-top: 63px;
+    float: left;
+}
+
+.letter-text {
+  margin-top: 67px;
+  margin-left: 150px;
+  margin-right: 20px;
+
+}
+
+.container-right {
+    display: flex;
+    width: 40%;
+    height: 446px;
+    background-size: 100%;
+    background: no-repeat url(img/pic1.png);
+    margin-left: 3px;
+  }
+
+.section3 {
+  margin-bottom: 52px;
+}
+
+.section3 h4 {
+  text-align: center;
+  margin: 11px;
+}
+
+.section4 {
+  width: 100%;
+}
+
