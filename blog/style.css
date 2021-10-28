@@ -83,7 +83,7 @@ p {
 .header-tel-icon {
   width: 16px;
   height: 16px;
-  background-image: url('../img/header/header-tel.svg');
+  background-image: url('img/header/header-tel.svg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -92,7 +92,7 @@ p {
 .header-menu-icon {
   width: 25px;
   height: 16px;
-  background-image: url('../img/header/icon-menu-1.svg');
+  background-image: url('img/header/icon-menu-1.svg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -107,19 +107,19 @@ p {
 .header-btn-search {
   width: 31px;
   height: 31px;
-  background-image: url('../img/header/header-search.svg');
+  background-image: url('img/header/header-search.svg');
 }
 
 .header-btn-favorites {
   width: 31px;
   height: 31px;
-  background-image: url('../img/header/header-favorites.svg');
+  background-image: url('img/header/header-favorites.svg');
 }
 
 .header-btn-cart {
   width: 32px;
   height: 32px;
-  background-image: url('../img/header/header-cart.svg');
+  background-image: url('img/header/header-cart.svg');
 }
 
 .btn-menu-local {
@@ -131,7 +131,7 @@ p {
 }
 
 .dropdown-toggle-lang::after {
-  background-image: url('../img/header/dropdown-icon.svg');
+  background-image: url('img/header/dropdown-icon.svg');
   width: 11px;
   height: 11px;
   background-position: center;
