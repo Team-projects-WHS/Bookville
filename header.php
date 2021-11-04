@@ -125,4 +125,12 @@
         </div>
       </nav>
     </div>
+    <div class="container-xl">
+      <div class="row">
+        <form class="header-form col-3" id="search" style="display: none;">
+          <input class="header-form-input form-control mr-2" type="search" placeholder="Поиск" aria-label="Search">
+          <button class="btn header-btn-search header-btn-search-small" type="submit"></button>
+        </form>
+      </div>
+    </div>
   </header>
