@@ -516,7 +516,7 @@ p {
 
 /* ABOUT */
 
-.main-about {
+.about {
   max-width: 1440px;
   margin: 0 auto;
 }
@@ -529,7 +529,7 @@ h4 {
   margin-bottom: 24px;
 }
 
-.container {
+.container-text {
   display: flex;
 }
 
@@ -583,7 +583,7 @@ margin-right: 20px;
 
 /* BLOG */
 
-.main-blog {
+.blog {
   width: 85.3%;
   display: flex;
   margin: 0 auto;

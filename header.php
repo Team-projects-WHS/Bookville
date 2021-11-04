@@ -5,7 +5,7 @@
           <a class="col-2 d-flex text-grey-1 text-decoration-none phone" href="tel:+7 999 140 00 00">
             <span class="d-block header-tel-icon d-inline-block align-top me-2 my-auto"></span>
             +7 999 140 00 00</a>
-          <a class="col-8 d-flex justify-content-center" href="index.php"><img src="img/header/header-logo.png" alt="logo"></a>
+          <a class="col-8 d-flex justify-content-center" href="main.php"><img src="img/header/header-logo.png" alt="logo"></a>
           <div class="col-2 collapse navbar-collapse justify-content-end">
             <button class="btn header-icon header-btn-search me-4" type="button"
               onclick="openbox('search'); return false"></button>

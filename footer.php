@@ -3,7 +3,7 @@
       <div class="container-xxl">
         <nav class="navbar navbar-expand-lg">
           <div class="container-xl d-flex justify-content-between mb-4">
-            <a class="d-flex justify-content-center" href="index.php"><img src="img/header/header-logo.png" alt="logo"></a>
+            <a class="d-flex justify-content-center" href="main.php"><img src="img/header/header-logo.png" alt="logo"></a>
             <div class="navbar-container">
               <ul class="navbar-nav mr-auto mb-2 mb-lg-0 mt-3 justify-content-between flex-grow-1">
                 <li class="nav-item">

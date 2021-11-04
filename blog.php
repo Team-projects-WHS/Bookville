@@ -15,11 +15,11 @@
 
 <?php include 'header.php'?>
 
-  <main class="main-blog">
+  <main class="blog">
     <div class="container-xxl">
       <div class="section-nav mb-4">
         <div class="nav">
-            <div class="nav1"><a class="text-grey-3" href="index.php">Главная</a></div>
+            <div class="nav1"><a class="text-grey-3" href="main.php">Главная</a></div>
             <img src="img/blog/arrow.png" alt="">
             <div class="nav2"><a class="text-grey-3" href="blog.php">Блог</a></div>
         </div>
