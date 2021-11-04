@@ -567,16 +567,16 @@ margin-right: 20px;
   margin-left: 3px;
 }
 
-.section3 {
+/* .paragraph {
   margin-bottom: 27px;
-}
+} */
 
-.section3 h4 {
+.paragraph h4 {
   text-align: center;
   margin: 11px 0 34px;
 }
 
-.section4 {
+.about-photos {
   width: 100%;
 }
 /* ABOUT */
