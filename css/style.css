@@ -563,7 +563,7 @@ margin-right: 20px;
   width: 40%;
   height: 446px;
   background-size: 100%;
-  background: no-repeat url(img/about/pic1.png);
+  background: no-repeat url(../img/about/pic1.png);
   margin-left: 3px;
 }
 
@@ -619,45 +619,45 @@ margin-right: 20px;
 } 
 
 .blog-item01 {
-  background-image: url(img/blog/blog1.jpg);
+  background-image: url(../img/blog/blog1.jpg);
 }
 
 .blog-item02 {
-  background-image: url(img/blog/blog2.jpg);
+  background-image: url(../img/blog/blog2.jpg);
 }
 
 .blog-item03 {
-  background-image: url(img/blog/blog3.jpg);
+  background-image: url(../img/blog/blog3.jpg);
 }
 
 .blog-item04 {
-  background-image: url(img/blog/blog4.jpg);
+  background-image: url(../img/blog/blog4.jpg);
 }
 
 .blog-item05 {
-  background-image: url(img/blog/blog5.jpg);
+  background-image: url(../img/blog/blog5.jpg);
 }
 
 .blog-item06 {
-  background-image: url(img/blog/blog6.jpg);
+  background-image: url(../img/blog/blog6.jpg);
   height: 651px;
 }
 
 .blog-item07 {
-  background-image: url(img/blog/blog7.jpg);
+  background-image: url(../img/blog/blog7.jpg);
   height: 651px;
 }
 
 .blog-item08 {
-  background-image: url(img/blog/blog8.jpg);
+  background-image: url(../img/blog/blog8.jpg);
 }
 
 .blog-item09 {
-  background-image: url(img/blog/blog9.jpg);
+  background-image: url(../img/blog/blog9.jpg);
 }
 
 .blog-item10 {
-  background-image: url(img/blog/blog10.jpg);
+  background-image: url(../img/blog/blog10.jpg);
 }
 
 .blog-title {
