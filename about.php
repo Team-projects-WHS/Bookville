@@ -25,8 +25,8 @@
           <div class="nav2"><a class="text-grey-3" href="about.php">О нас</a></div>
         </div>
       </div>
-      <div class="section2">
-        <h2 class="page-title">О нас</h2>
+      <div class="section-about">
+        <h2 class="page-title mb-2 text-black-2">О нас</h2>
           <div class="container-text">
             <div class="container-left">
               <div class="container-left__letter">
@@ -41,7 +41,7 @@
       </div>
       <div class="section3"><h4>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore quo officia neque fugiat minima asperiores nam eius qui eveniet. Provident autem laboriosam recusandae optio facere vel delectus consequuntur natus iste culpa odit reprehenderit libero repellendus eveniet amet eos, alias incidunt nulla fuga omnis consequatur necessitatibus ratione eaque.</h4></div>
       <div class="container-xxl section4">
-        <div class="row me-1 row-cols-2">
+        <div class="row me-1 row-cols-2 gx-5">
           <div class="col-12 gy-4 col-lg-6">
             <img src="img/about/pic2.png" alt="">
           </div>
@@ -53,11 +53,9 @@
     </div>
 
     <h4></h4>
-
-    <?php include 'footer.php'?>
-
   </main>
-      
+  
+  <?php include 'footer.php'?>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
     integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
