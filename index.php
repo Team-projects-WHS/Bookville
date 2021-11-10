@@ -22,13 +22,13 @@
           <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="img/hero/hero-1.jpg" class="d-block w-100" alt="...">
+                <img src="img/main/hero/hero-1.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="img/hero/hero-2.jpg" class="d-block w-100" alt="...">
+                <img src="img/main/hero/hero-2.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="img/hero/hero-3.jpg" class="d-block w-100" alt="...">
+                <img src="img/main/hero/hero-3.jpg" class="d-block w-100" alt="...">
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -100,7 +100,7 @@
               <div class="carousel-item active d-flex justify-content-between">
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -115,7 +115,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -130,7 +130,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -145,7 +145,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -162,7 +162,7 @@
               <div class="carousel-item active d-flex justify-content-between">
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -177,7 +177,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -192,7 +192,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -207,7 +207,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -245,7 +245,7 @@
               <div class="carousel-item active d-flex justify-content-between">
                 <div class="card me-3 card-local card-popular">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -260,7 +260,7 @@
                 </div>
                 <div class="card me-3 card-local card-popular">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -275,7 +275,7 @@
                 </div>
                 <div class="card me-3 card-local card-popular">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -290,7 +290,7 @@
                 </div>
                 <div class="card me-3 card-local card-popular">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -307,7 +307,7 @@
               <div class="carousel-item active d-flex justify-content-between">
                 <div class="card me-3 card-local card-popular">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -322,7 +322,7 @@
                 </div>
                 <div class="card me-3 card-local card-popular">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -337,7 +337,7 @@
                 </div>
                 <div class="card me-3 card-local card-popular">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -352,7 +352,7 @@
                 </div>
                 <div class="card me-3 card-local card-popular">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -390,7 +390,7 @@
               <div class="carousel-item active d-flex justify-content-between">
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -405,7 +405,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -420,7 +420,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -435,7 +435,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -452,7 +452,7 @@
               <div class="carousel-item active d-flex justify-content-between">
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -467,7 +467,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -482,7 +482,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -497,7 +497,7 @@
                 </div>
                 <div class="card me-3 card-local">
                   <div class="card-img" href="#">
-                    <a href="#"><img src="img/book.jpg" class="card-img-top card-local-img" alt="book"></a>
+                    <a href="#"><img src="img/main/book.jpg" class="card-img-top card-local-img" alt="book"></a>
                     <button class="btn btn-favorites d-flex justify-content-center align-items-center" type="button">
                       <span class="btn-favorites-icon"></span>
                     </button>
@@ -530,7 +530,7 @@
       <div class="container-xl">
         <div class="row align-items-center">
           <div class="col">
-            <img src="img/activity/content.jpg" alt="activity">
+            <img src="img/main/activity/content.jpg" alt="activity">
           </div>
           <div class="col">
             <h2 class="mb-3 section-title">О наших мероприятиях</h2>
@@ -560,7 +560,7 @@
                 <a class="card-title text-black-1 text-decoration-none selection-card-title">Для уютного вечера</a>
                 <p class="card-text text-grey-4 selection-card-text">15 книг</p>
               </div>
-              <img src="img/selection/back-1.jpg" alt="">
+              <img src="img/main/selection/back-1.jpg" alt="">
             </div>
           </div>
           <div class="col-sm-4 col mb-3 d-flex align-self-stretch">
@@ -570,7 +570,7 @@
                   родителей</a>
                 <p class="card-text text-grey-4 selection-card-text">15 книг</p>
               </div>
-              <img src="img/selection/back-2.jpg" alt="">
+              <img src="img/main/selection/back-2.jpg" alt="">
             </div>
           </div>
           <div class="col-sm-4 col mb-3 d-flex align-self-stretch">
@@ -579,7 +579,7 @@
                 <a class="card-title text-black-1 text-decoration-none selection-card-title">О психологии</a>
                 <p class="card-text text-grey-4 selection-card-text">15 книг</p>
               </div>
-              <img src="img/selection/back-3.jpg" alt="">
+              <img src="img/main/selection/back-3.jpg" alt="">
             </div>
           </div>
           <div class="col-sm-4 col mb-3 d-flex align-self-stretch">
@@ -588,7 +588,7 @@
                 <a class="card-title text-black-1 text-decoration-none selection-card-title">Для руководителя</a>
                 <p class="card-text text-grey-4 selection-card-text">15 книг</p>
               </div>
-              <img src="img/selection/back-4.jpg" alt="">
+              <img src="img/main/selection/back-4.jpg" alt="">
             </div>
           </div>
           <div class="col-sm-4 col mb-3 d-flex align-self-stretch">
@@ -597,7 +597,7 @@
                 <a class="card-title text-black-1 text-decoration-none selection-card-title">О здоровье</a>
                 <p class="card-text text-grey-4 selection-card-text">15 книг</p>
               </div>
-              <img src="img/selection/back-5.jpg" alt="">
+              <img src="img/main/selection/back-5.jpg" alt="">
             </div>
           </div>
           <div class="col-sm-4 col mb-3 d-flex align-self-stretch">
@@ -606,7 +606,7 @@
                 <a class="card-title text-black-1 text-decoration-none selection-card-title">Для любознаек</a>
                 <p class="card-text text-grey-4 selection-card-text">15 книг</p>
               </div>
-              <img src="img/selection/back-6.jpg" alt="">
+              <img src="img/main/selection/back-6.jpg" alt="">
             </div>
           </div>
         </div>
