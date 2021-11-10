@@ -30,16 +30,18 @@
           <div class="container-text">
             <div class="container-left">
               <div class="container-left__letter">
-                <div class="letter-img"><img src="img/about/А.png" alt=""></div>
-                <div class="letter-text"><h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta at atque ipsum dolores cum alias animi architecto accusantium natus, quos autem provident, repellendus officiis consequuntur aspernatur laboriosam, libero itaque error! Alias, porro inventore.</h4></div>
+                <div class="letter-big">A</div>
+                <div class="letter-text">
+                  <p class="text line-height-25">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dicta at atque ipsum dolores cum alias animi architecto accusantium natus, quos autem provident, repellendus officiis consequuntur aspernatur laboriosam, libero itaque error! Alias, porro inventore.</p>
+                </div>
               </div>
-              <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, repellendus corrupti? Itaque ad quis ex! Architecto quo, modi doloribus molestias cum, laborum repellendus quam illum nam error sunt, deleniti ex. Incidunt quidem amet iusto laudantium animi itaque atque porro consequatur architecto nulla temporibus placeat sequi, dolorem cumque. Rerum, molestias?</h4>
-              <h4 class="mb-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto ipsa reprehenderit incidunt cumque numquam! Neque voluptatem iste illum, quisquam impedit sed placeat cupiditate accusamus maiores sit, dolore laudantium dignissimos provident.</h4>
+              <p class="text line-height-25">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, repellendus corrupti? Itaque ad quis ex! Architecto quo, modi doloribus molestias cum, laborum repellendus quam illum nam error sunt, deleniti ex. Incidunt quidem amet iusto laudantium animi itaque atque porro consequatur architecto nulla temporibus placeat sequi, dolorem cumque. Rerum, molestias?</p>
+              <p class="mb-5 text line-height-25 text-align-right">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto ipsa reprehenderit incidunt cumque numquam! Neque voluptatem iste illum, quisquam impedit sed placeat cupiditate accusamus maiores sit, dolore laudantium dignissimos provident.</p>
             </div>
           <div class="container-right"></div>
         </div>
       </div>
-      <div class="paragraph mb-3"><h4>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore quo officia neque fugiat minima asperiores nam eius qui eveniet. Provident autem laboriosam recusandae optio facere vel delectus consequuntur natus iste culpa odit reprehenderit libero repellendus eveniet amet eos, alias incidunt nulla fuga omnis consequatur necessitatibus ratione eaque.</h4></div>
+      <div class="paragraph mb-3"><p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore quo officia neque fugiat minima asperiores nam eius qui eveniet. Provident autem laboriosam recusandae optio facere vel delectus consequuntur natus iste culpa odit reprehenderit libero repellendus eveniet amet eos, alias incidunt nulla fuga omnis consequatur necessitatibus ratione eaque.</p></div>
       <div class="container-xxl about-photos">
         <div class="row me-1 row-cols-2 gx-5">
           <div class="col-12 gy-4 col-lg-6">
@@ -52,7 +54,7 @@
       </div>
     </div>
 
-    <h4></h4>
+    <p></p>
   </main>
   
   <?php include 'footer.php'?>

@@ -40,10 +40,25 @@
   color: #373737;
 }
 
+/*Text*/
 .section-title {
   font-size: 2.2em;
   font-weight: 300;
-  color: #373737;
+}
+
+text {
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: .2px;
+  margin-bottom: 24px;
+}
+
+.line-height-19 {
+  line-height: 19px;
+}
+
+.line-height-25 {
+  line-height: 25px;
 }
 
 /* Common values */
@@ -521,14 +536,6 @@ p {
   margin: 0 auto;
 }
 
-h4 {
-  font-weight: 300;
-  font-size: 16px;
-  line-height: 25px;
-  letter-spacing: .2px;
-  margin-bottom: 24px;
-}
-
 .container-text {
   display: flex;
 }
@@ -546,9 +553,11 @@ width: 60%;
 flex-direction: row;
 }
 
-.letter-img {
+.letter-big {
 height: 102px;
-margin-top: 63px;
+margin-top: 26px;
+font-size: 144px;
+line-height: 175px;
 float: left;
 }
 
